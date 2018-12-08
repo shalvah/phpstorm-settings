@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="&quot;powershell&quot; -NoExit -Command &quot;Set-Theme Paradox&quot;" />
+  </component>
+</application>

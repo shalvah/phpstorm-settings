@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="ustr" value="'use strict';&#10;" description="Inserts 'use strict' directive" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

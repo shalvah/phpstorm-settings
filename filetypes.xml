@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Procfile" type="Bash" />
+      <mapping pattern="www" type="JavaScript" />
+      <mapping ext="apib" type="Markdown" />
+      <mapping pattern="create" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="apacheconfig" type="PLAIN_TEXT" />
+      <mapping pattern="# The API" type="PLAIN_TEXT" />
+      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="jkhgh" type="PLAIN_TEXT" />
+      <mapping pattern=".slugignore" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="volt" type="Twig" />
+      <mapping pattern="apache.conf" type="htaccess" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>
