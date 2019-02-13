@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;powershell&quot; -NoExit -Command &quot;Set-Theme Paradox&quot;" />
+    <option name="myShellPath" value="&quot;powershell&quot; -NoExit -Command &quot;$ThemeSettings.Colors.AdminIconForegroundColor = 'DarkGreen'; Set-PSReadLineOption -Colors @{&quot;Parameter&quot; = [ConsoleColor]::Blue}&quot;" />
   </component>
 </application>
