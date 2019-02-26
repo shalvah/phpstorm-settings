@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/mpociot/laravel-apidoc-generator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.deimos.co.za/flash/api-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Forks" />
+    <option name="cloneParentDir" value="C:\Users\shalvah\Projects\homechoice" />
   </component>
 </application>
