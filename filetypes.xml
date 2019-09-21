@@ -9,6 +9,7 @@
       <mapping pattern="# The API" type="PLAIN_TEXT" />
       <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="apacheconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="variablesmd" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
