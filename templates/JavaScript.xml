@@ -4,7 +4,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="mex" value="module.exports = " description="" toReformat="false" toShortenFQNames="true">
+  <template name="mex" value="module.exports = $VAR$;" description="module.exports =" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clo" value="console.log($VAR$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
