@@ -20,6 +20,7 @@
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".slugignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="jkhgh" type="PLAIN_TEXT" />
       <mapping pattern="g" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
