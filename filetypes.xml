@@ -16,6 +16,7 @@
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
