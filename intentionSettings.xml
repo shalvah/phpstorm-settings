@@ -4,5 +4,6 @@
     <ignoreAction name="PHP/Convert namespace to braced" />
     <ignoreAction name="PHP/Surround with '!empty'" />
     <ignoreAction name="PHP/Surround with 'isset'" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Iterate with for..of" />
   </component>
 </application>
