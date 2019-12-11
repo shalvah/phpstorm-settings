@@ -8,67 +8,13 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="41b6e50c-8380-4d48-9f32-5986ee43e0f9" name="PHP 5.6" home="C:\PHP\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="caac588a-b9ce-4a58-8468-9e1218ca933c" name="PHP 7.2" home="C:\PHP\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="41b6e50c-8380-4d48-9f32-5986ee43e0f9" name="PHP 7.4" home="C:\PHP\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="C:\PHP\php-cgi.exe" php_cli="C:\PHP\php.exe" path_separator=";" version="5.6.33">
-          <additional_php_ini />
-          <configuration_file>C:\PHP\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".;C:\php\pear" />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="ereg" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mhash" />
-            <extension name="mysql" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="odbc" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
-            <extension name="session" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="C:\PHP\php-cgi.exe" php_cli="C:\PHP\php.exe" path_separator=";" version="7.2.10">
+      <interpreter name="PHP 7.4">
+        <phpinfo binary_type="PHP" php_cgi="C:\PHP\php-cgi.exe" php_cli="C:\PHP\php.exe" path_separator=";" version="7.4.0">
           <additional_php_ini />
           <configuration_file>C:\PHP\php.ini</configuration_file>
           <configuration_options>
@@ -107,7 +53,6 @@
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
