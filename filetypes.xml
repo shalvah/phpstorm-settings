@@ -13,6 +13,7 @@
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="handleAccountActivity" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
