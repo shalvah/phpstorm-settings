@@ -21,6 +21,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="variablesmd" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="# The API" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="jkhgh" type="PLAIN_TEXT" />
