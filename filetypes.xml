@@ -30,7 +30,6 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="empty" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="apache.conf" type="htaccess" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
