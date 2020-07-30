@@ -1,0 +1,14 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+</keymap>
