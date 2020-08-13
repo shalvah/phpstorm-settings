@@ -94,6 +94,10 @@
           <option name="url" value="https://github.com/duccl/customer-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/supermamon/node-restify-jwt-sample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\shalvah\Projects\Temp" />
