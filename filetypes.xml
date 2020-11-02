@@ -22,6 +22,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="# The API" type="PLAIN_TEXT" />
+      <mapping pattern=".env.deploy" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="jkhgh" type="PLAIN_TEXT" />
