@@ -5,11 +5,12 @@
       <mapping ext="apib" type="Markdown" />
       <mapping pattern="g" type="PLAIN_TEXT" />
       <mapping pattern="handleAccountActivity" type="PLAIN_TEXT" />
+      <mapping pattern=".slugignore" type="PLAIN_TEXT" />
       <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.deploy" type="PLAIN_TEXT" />
       <mapping pattern=".env.docs" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern="apacheconfig" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
@@ -22,11 +23,10 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="# The API" type="PLAIN_TEXT" />
-      <mapping pattern=".env.deploy" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="jkhgh" type="PLAIN_TEXT" />
-      <mapping pattern=".slugignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="empty" type="PLAIN_TEXT" />
