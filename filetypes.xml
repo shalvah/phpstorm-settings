@@ -29,14 +29,14 @@
       <mapping pattern="jkhgh" type="PLAIN_TEXT" />
       <mapping ext="empty" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="def" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="def" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
       <mapping pattern="apache.conf" type="htaccess" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
