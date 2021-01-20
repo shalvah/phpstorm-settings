@@ -1,5 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="true" />
     <option name="myShellPath" value="&quot;powershell&quot; -NoExit -Command &quot;Set-Theme Paradox; $ThemeSettings.Colors.AdminIconForegroundColor = 'DarkGreen'; Set-PSReadLineOption -Colors @{&quot;Parameter&quot; = [ConsoleColor]::Blue}&quot;" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>
