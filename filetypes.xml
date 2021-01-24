@@ -40,6 +40,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile" approved="true" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="Bash" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
