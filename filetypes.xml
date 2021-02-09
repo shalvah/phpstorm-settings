@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="passport" type="AUTO_DETECTED" />
       <mapping pattern="gitignore" type="AUTO_DETECTED" />
       <mapping pattern="www" type="JavaScript" />
       <mapping ext="apib" type="Markdown" />
