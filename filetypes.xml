@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="passport" type="AUTO_DETECTED" />
       <mapping pattern="gitignore" type="AUTO_DETECTED" />
+      <mapping pattern="t,js" type="AUTO_DETECTED" />
       <mapping pattern="www" type="JavaScript" />
       <mapping ext="apib" type="Markdown" />
       <mapping pattern="# The API" type="PLAIN_TEXT" />
