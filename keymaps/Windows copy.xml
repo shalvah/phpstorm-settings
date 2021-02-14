@@ -11,5 +11,4 @@
   <action id="MethodUp" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
-  <action id="Vcs.Push" />
 </keymap>
